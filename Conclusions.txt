@@ -1,0 +1,7 @@
+Pyber Observations:
+
+1) Typically, the lower amount of drivers/rides per city, correlates to a higher average fare. After approximately 20 rides per city, average fares generally stay the same as the number of rides per city increases. 
+
+2) The percentage of Urban drivers is extremely high relative to rural & surburban. However, if you look at the % of Urban rides, it is lower than the % of Urban drivers. This tells me that some Urban drivers take rides & customers in suburban and rural areas. Purhaps from the urban areas.
+
+3) As expected, the highest % of total fares comes from the Urban areas. Even though rural drivers get higher rates overall for the services, the total amount of volume from Urban drivers and rides correlates to the higher % of total fares. 
